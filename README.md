@@ -21,6 +21,6 @@ https://github.com/Nishh78/react-typescript-leaderboard.git
 
 ## Image
 
-![Leaderboard with 10 Streamers](public/leaderboard-reactjspng) 
+![Leaderboard with 10 Streamers](public/leaderboard-reactjs.png) 
 
 
